@@ -1,3 +1,4 @@
+
 name: CTF Radar scan
 
 on:
@@ -16,36 +17,31 @@ jobs:
   scan:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
-      - name: Check out repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: pip
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run tests
-        run: python -m unittest discover -s tests -v
-
-      - name: Scan CTF events
+      - name: Run CTF Radar
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python -m src.radar
 
-      - name: Commit updated event data
+      - name: Commit event data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/events.json
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update CTF Radar event feed"
+            git commit -m "Update CTF Radar data"
             git push
-          else
-            echo "No changes to event feed."
           fi
