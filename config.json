@@ -6,7 +6,7 @@
     "osint",
     "steganography"
   ],
-  "notify_on_first_run": false,
+  "notify_on_first_run": true,
   "keywords": {
     "osint": [
       "osint",
