@@ -1,0 +1,33 @@
+{
+  "days_ahead": 45,
+  "max_events": 100,
+  "require_online": true,
+  "categories": [
+    "osint",
+    "steganography"
+  ],
+  "notify_on_first_run": false,
+  "keywords": {
+    "osint": [
+      "osint",
+      "open source intelligence",
+      "open-source intelligence",
+      "geolocation",
+      "geo location",
+      "geoguessr",
+      "digital footprint",
+      "social media intelligence",
+      "investigation",
+      "metadata analysis"
+    ],
+    "steganography": [
+      "steganography",
+      "steganographic",
+      "stego",
+      "hidden message",
+      "hidden data",
+      "image stego",
+      "audio stego"
+    ]
+  }
+}
