@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T05:55:26.527975+00:00",
+  "updated_at": "2026-10-30T13:02:24.262399+00:00",
   "source": "CTFtime API",
   "events": [
     {
@@ -16,10 +16,10 @@
       "format": "Jeopardy",
       "online": true,
       "weight": 0.0,
-      "participants": 140,
+      "participants": 157,
       "location": "",
       "description": "HI Cyber Con 2026 CTF is an international 48-hour Jeopardy-style Capture The Flag competition organized by Hidden Investigations.\r\n\r\nThe competition features 70+ challenges covering web, forensics, steganography, network, crypto, binary exploitation, reverse engineering, AI/LLM, hardware, blockchain, OSINT, and misc.\r\n\r\nThe CTF is fully online and open to teams of up to 5 participants worldwide.\r\n\r\nCompetition Divisions: HI Cyber Con 2026 features two divisions: Human-Led (AI permitted for reference only) and Agentic AI (AI-assisted and autonomous challenge solving permitted). Both divisions are eligible for the same overall USD 2,500 cash prize pool. Participation is free, with teams of 1–5 members.\r\n\r\nDiscord: https://discord.gg/rD2gHUWJhf",
-      "updated_at": "2026-10-30T05:55:26.527658+00:00"
+      "updated_at": "2026-10-30T13:02:24.261968+00:00"
     },
     {
       "id": "3331",
@@ -34,10 +34,10 @@
       "format": "Jeopardy",
       "online": true,
       "weight": 0.0,
-      "participants": 29,
+      "participants": 30,
       "location": "",
       "description": "The first iteration of PINK+ CTF. Explore a variety of hand crafted challenges with a focus on steganography!\r\n\r\nDiscord: https://discord.gg/VuPqnhFxH4",
-      "updated_at": "2026-10-30T05:55:26.527718+00:00"
+      "updated_at": "2026-10-30T13:02:24.262053+00:00"
     },
     {
       "id": "3339",
@@ -52,10 +52,10 @@
       "format": "Jeopardy",
       "online": true,
       "weight": 0.0,
-      "participants": 30,
+      "participants": 34,
       "location": "",
       "description": "EVENT TIME HAS BEEN SHIFTED TO START AND END 4 HOURS AFTER TIME LISTED ABOVE\r\n\r\nREGISTRATION IS NOW AVAILABLE!\r\n\r\nBOO!!\r\n\r\nWelcome to SpookyCTF 2026! Organized by the New Jersey Institute of Technology's Cyber Security Network (formerly known as NICC), this is our annual Halloween CTF event, open to all!\r\n\r\nWe've made this CTF beginner-friendly, with a mix of harder challenges. Our mission is to help beginners develop professionally in cybersecurity while still keeping things fun! You'll be pushed to stay curious and strengthen your reasoning skills across challenges of varying difficulty.\r\n\r\nOur challenge categories include Binary Exploitation/Reverse Engineering, Cryptography, Forensics, OSINT, Web, and Misc. Expect weird but fun challenges developed by our team at CSN.\r\n\r\nSpookyCTF is hybrid — in person at NJIT and open to virtual attendees!\r\n\r\nJoin our Discord to tap in: https://discord.gg/NeHyp5fFHW\r\n\r\nAI assistance is allowed but discouraged. Learning is part of the challenge — use your brain!\r\nAutomated AI agents for solving challenges are strictly forbidden. Any detected automated AI usage will result in disqualification.",
-      "updated_at": "2026-10-30T05:55:26.527748+00:00"
+      "updated_at": "2026-10-30T13:02:24.262099+00:00"
     },
     {
       "id": "3486",
@@ -70,10 +70,10 @@
       "format": "Jeopardy",
       "online": true,
       "weight": 0,
-      "participants": 7,
+      "participants": 8,
       "location": "",
       "description": "TVX CTF is a cybersecurity Capture The Flag competition organized by Tech Visions.\r\n\r\nChallenge categories include:\r\n\r\n• DFIR (Digital Forensics & Incident Response)\r\n• Cloud Security\r\n• Malware Analysis\r\n• Reverse Engineering\r\n• Pwn (Binary Exploitation)\r\n• Web Exploitation\r\n• Cryptography\r\n• OSINT (Open-Source Intelligence)\r\n\r\nTest your skills, solve real-world-inspired cybersecurity challenges, and compete with other security enthusiasts in a hands-on environment.\r\n\r\nOrganized by Tech Visions.",
-      "updated_at": "2026-10-30T05:55:26.527775+00:00"
+      "updated_at": "2026-10-30T13:02:24.262169+00:00"
     },
     {
       "id": "3049",
@@ -88,10 +88,10 @@
       "format": "Jeopardy",
       "online": true,
       "weight": 0.0,
-      "participants": 83,
+      "participants": 85,
       "location": "",
       "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). \r\n\r\nThere are two divisions, Open and University of Michigan students. No team limit sizes.\r\n\r\nThank you to our sponsors!\r\nBinary Ninja: https://binary.ninja/\r\n\r\n**Note: This event has been postponed to November 2026**",
-      "updated_at": "2026-10-30T05:55:26.527792+00:00"
+      "updated_at": "2026-10-30T13:02:24.262199+00:00"
     },
     {
       "id": "3467",
@@ -109,7 +109,7 @@
       "participants": 10,
       "location": "",
       "description": "InIt CTF is HII's (Hackers in India) beginner-focused Capture The Flag event, free and open to participants across India and internationally. 8 hours, Jeopardy-style, solo or teams of up to 4, across Web, Crypto, Forensics, OSINT, and Misc — mostly easy/medium with a couple of harder challenges for experienced players. This edition is sponsored by .xyz, who are providing free domain codes for participants, with additional sponsors being confirmed. Register at\r\n\r\nhackersinindia.com/init-ctf.",
-      "updated_at": "2026-10-30T05:55:26.527804+00:00"
+      "updated_at": "2026-10-30T13:02:24.262219+00:00"
     },
     {
       "id": "3419",
@@ -127,7 +127,7 @@
       "participants": 11,
       "location": "",
       "description": "EyesOpenCTF 2026 is a FREE CTF competition organized as part of the 7th edition of EOCON.\r\n\r\nThis year, the competition goes far beyond a traditional CTF.\r\nYou are not simply joining to solve isolated challenges. You are entering The Convergence, a live 48-hour cyber adventure in which reality itself is beginning to fracture.\r\nAcross more than 40 challenges and 8 disciplines, teams will investigate corrupted systems, recover hidden Reality Fragments, unlock classified dossiers, expose compromised actors, and gradually reconstruct the truth behind a phenomenon threatening the entire world.\r\n\r\nEvery flag matters.\r\nEach solved challenge can reveal new intelligence, unlock characters and locations, alter the mission briefing, and move the story forward in real time. The competition platform becomes a living investigation that evolves with the progress of the Operators.\r\n\r\nExpect  : \r\n- web exploitation, \r\n- digital forensics, \r\n- reverse engineering, \r\n- binary exploitation, \r\n- cryptography, \r\n- OSINT, \r\n- AI security, and more—woven into a single coherent mission unlike any previous EyesOpenCTF.\r\n\r\nBuilt for teams from around the world and open to different experience levels, EyesOpenCTF is both a proving ground and an immersive narrative experience where competitors can learn, compete, get noticed, and join a fast-growing international cybersecurity community.\r\n\r\nAs part of EOCON, the competition also connects participants with experts, researchers, recruiters, entrepreneurs, ",
-      "updated_at": "2026-10-30T05:55:26.527829+00:00"
+      "updated_at": "2026-10-30T13:02:24.262260+00:00"
     },
     {
       "id": "3490",
@@ -163,7 +163,7 @@
       "participants": 19,
       "location": "",
       "description": "Crate-CTF is an annual Capture The Flag (CTF) competition organised by the Swedish Defence Research Agency in collaboration with the Swedish Armed Forces, designed to introduce high school and university students to the field of cybersecurity. This year we return for our seventh CTF, with challenges for all skill levels from beginners to seasoned CTF players. The challenges are categorised into web exploitation, reverse engineering, binary exploitation, cryptography, forensics, OSINT, networking and the all-encompassing \"other\".\r\n\r\nWhile the event will be conducted in Swedish, international participants are also welcome to join (using translation tools as needed). Communication with challenge authors and administrators can be conducted in English.",
-      "updated_at": "2026-10-30T05:55:26.527895+00:00"
+      "updated_at": "2026-10-30T13:02:24.262302+00:00"
     },
     {
       "id": "3485",
@@ -181,7 +181,7 @@
       "participants": 13,
       "location": "",
       "description": "L3m0n CTF is the annual flagship capture-the-flag competition of Amrita Vishwa Vidyapeetham, Coimbatore, hosted by TIFAC-CORE in Cyber Security. This is a team-based event: teams of 1 to 4 players. The online prelims is Jeopardy-style and run for 12 hours (10:00 to 22:00 IST, 04:30 to 16:30 UTC, on 28 November 2026). The top teams are invited to on-campus finals in Coimbatore. Challenges span web, pwn, reverse engineering, cryptography, forensics, OSINT and miscellaneous, with extra tracks in AI and LLM security, Web3 and hardware, IoT and RF. This edition is a broadcast themed on the cartoons we grew up with. Open to all, with a beginner category that teaches the basics. Registration opens soon on l3m0nctf.xyz.",
-      "updated_at": "2026-10-30T05:55:26.527911+00:00"
+      "updated_at": "2026-10-30T13:02:24.262327+00:00"
     }
   ],
   "notified_ids": [
