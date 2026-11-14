@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T06:32:15.386706+00:00",
+  "updated_at": "2026-11-14T18:10:42.296674+00:00",
   "source": "CTFtime API",
   "events": [
     {
@@ -160,10 +160,10 @@
       "format": "Jeopardy",
       "online": true,
       "weight": 0.0,
-      "participants": 31,
+      "participants": 33,
       "location": "",
       "description": "EyesOpenCTF 2026 is a FREE CTF competition organized as part of the 7th edition of EOCON.\r\n\r\nThis year, the competition goes far beyond a traditional CTF.\r\nYou are not simply joining to solve isolated challenges. You are entering The Convergence, a live 48-hour cyber adventure in which reality itself is beginning to fracture.\r\nAcross more than 40 challenges and 8 disciplines, teams will investigate corrupted systems, recover hidden Reality Fragments, unlock classified dossiers, expose compromised actors, and gradually reconstruct the truth behind a phenomenon threatening the entire world.\r\n\r\nEvery flag matters.\r\nEach solved challenge can reveal new intelligence, unlock characters and locations, alter the mission briefing, and move the story forward in real time. The competition platform becomes a living investigation that evolves with the progress of the Operators.\r\n\r\nExpect  : \r\n- web exploitation, \r\n- digital forensics, \r\n- reverse engineering, \r\n- binary exploitation, \r\n- cryptography, \r\n- OSINT, \r\n- AI security, and more—woven into a single coherent mission unlike any previous EyesOpenCTF.\r\n\r\nBuilt for teams from around the world and open to different experience levels, EyesOpenCTF is both a proving ground and an immersive narrative experience where competitors can learn, compete, get noticed, and join a fast-growing international cybersecurity community.\r\n\r\nAs part of EOCON, the competition also connects participants with experts, researchers, recruiters, entrepreneurs, ",
-      "updated_at": "2026-11-14T06:32:15.386508+00:00"
+      "updated_at": "2026-11-14T18:10:42.296466+00:00"
     },
     {
       "id": "3490",
@@ -196,10 +196,10 @@
       "format": "Jeopardy",
       "online": true,
       "weight": 37.0,
-      "participants": 39,
+      "participants": 42,
       "location": "",
       "description": "Crate-CTF is an annual Capture The Flag (CTF) competition organised by the Swedish Defence Research Agency in collaboration with the Swedish Armed Forces, designed to introduce high school and university students to the field of cybersecurity. This year we return for our seventh CTF, with challenges for all skill levels from beginners to seasoned CTF players. The challenges are categorised into web exploitation, reverse engineering, binary exploitation, cryptography, forensics, OSINT, networking and the all-encompassing \"other\".\r\n\r\nWhile the event will be conducted in Swedish, international participants are also welcome to join (using translation tools as needed). Communication with challenge authors and administrators can be conducted in English.",
-      "updated_at": "2026-11-14T06:32:15.386560+00:00"
+      "updated_at": "2026-11-14T18:10:42.296532+00:00"
     },
     {
       "id": "3485",
@@ -214,10 +214,10 @@
       "format": "Jeopardy",
       "online": true,
       "weight": 0.0,
-      "participants": 29,
+      "participants": 30,
       "location": "",
       "description": "L3m0n CTF is the annual flagship capture-the-flag competition of Amrita Vishwa Vidyapeetham, Coimbatore, hosted by TIFAC-CORE in Cyber Security. This is a team-based event: teams of 1 to 4 players. The online prelims is Jeopardy-style and run for 12 hours (10:00 to 22:00 IST, 04:30 to 16:30 UTC, on 28 November 2026). The top teams are invited to on-campus finals in Coimbatore. Challenges span web, pwn, reverse engineering, cryptography, forensics, OSINT and miscellaneous, with extra tracks in AI and LLM security, Web3 and hardware, IoT and RF. This edition is a broadcast themed on the cartoons we grew up with. Open to all, with a beginner category that teaches the basics. Registration opens soon on l3m0nctf.xyz.",
-      "updated_at": "2026-11-14T06:32:15.386586+00:00"
+      "updated_at": "2026-11-14T18:10:42.296561+00:00"
     }
   ],
   "notified_ids": [
