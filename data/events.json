@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T06:38:10.647642+00:00",
+  "updated_at": "2026-11-16T22:11:38.086773+00:00",
   "source": "CTFtime API",
   "events": [
     {
@@ -142,10 +142,10 @@
       "format": "Jeopardy",
       "online": true,
       "weight": 0.0,
-      "participants": 53,
+      "participants": 61,
       "location": "",
       "description": "EyesOpenCTF 2026 is a FREE CTF competition organized as part of the 7th edition of EOCON.\r\n\r\nThis year, the competition goes far beyond a traditional CTF.\r\nYou are not simply joining to solve isolated challenges. You are entering The Convergence, a live 48-hour cyber adventure in which reality itself is beginning to fracture.\r\nAcross more than 40 challenges and 8 disciplines, teams will investigate corrupted systems, recover hidden Reality Fragments, unlock classified dossiers, expose compromised actors, and gradually reconstruct the truth behind a phenomenon threatening the entire world.\r\n\r\nEvery flag matters.\r\nEach solved challenge can reveal new intelligence, unlock characters and locations, alter the mission briefing, and move the story forward in real time. The competition platform becomes a living investigation that evolves with the progress of the Operators.\r\n\r\nExpect  : \r\n- web exploitation, \r\n- digital forensics, \r\n- reverse engineering, \r\n- binary exploitation, \r\n- cryptography, \r\n- OSINT, \r\n- AI security, and more—woven into a single coherent mission unlike any previous EyesOpenCTF.\r\n\r\nBuilt for teams from around the world and open to different experience levels, EyesOpenCTF is both a proving ground and an immersive narrative experience where competitors can learn, compete, get noticed, and join a fast-growing international cybersecurity community.\r\n\r\nAs part of EOCON, the competition also connects participants with experts, researchers, recruiters, entrepreneurs, ",
-      "updated_at": "2026-11-16T06:38:10.647138+00:00"
+      "updated_at": "2026-11-16T22:11:37.566926+00:00"
     },
     {
       "id": "3049",
@@ -160,10 +160,10 @@
       "format": "Jeopardy",
       "online": true,
       "weight": 0.0,
-      "participants": 191,
+      "participants": 204,
       "location": "",
       "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). \r\n\r\nThere are two divisions, Open and University of Michigan students. No team limit sizes.\r\n\r\nThank you to our sponsors!\r\nBinary Ninja: https://binary.ninja/",
-      "updated_at": "2026-11-16T06:38:10.647212+00:00"
+      "updated_at": "2026-11-16T22:11:37.566961+00:00"
     },
     {
       "id": "3490",
@@ -196,10 +196,10 @@
       "format": "Jeopardy",
       "online": true,
       "weight": 37.0,
-      "participants": 49,
+      "participants": 54,
       "location": "",
       "description": "Crate-CTF is an annual Capture The Flag (CTF) competition organised by the Swedish Defence Research Agency in collaboration with the Swedish Armed Forces, designed to introduce high school and university students to the field of cybersecurity. This year we return for our seventh CTF, with challenges for all skill levels from beginners to seasoned CTF players. The challenges are categorised into web exploitation, reverse engineering, binary exploitation, cryptography, forensics, OSINT, networking and the all-encompassing \"other\".\r\n\r\nWhile the event will be conducted in Swedish, international participants are also welcome to join (using translation tools as needed). Communication with challenge authors and administrators can be conducted in English.",
-      "updated_at": "2026-11-16T06:38:10.647284+00:00"
+      "updated_at": "2026-11-16T22:11:37.566995+00:00"
     },
     {
       "id": "3502",
@@ -217,7 +217,7 @@
       "participants": 7,
       "location": "",
       "description": "RedReaper CTF\r\n\r\nWelcome to RedReaper CTF, a cybersecurity Capture The Flag competition organized by RedX & Reaper \r\n\r\nEnter a dark world of cybersecurity challenges, where technical knowledge, creativity, and problem-solving skills will determine who survives the hunt.\r\n\r\nTest your skills across multiple cybersecurity domains, solve challenges, uncover hidden flags, and compete against other participants.\r\n\r\nChallenge Categories\r\n- Forensics\r\n- Crypto\r\n- Misc\r\n- Reverse Engineering\r\n- Web\r\n- AI Hacking\r\n- Pwn\r\n- OSINT\r\n- Automation\r\n\r\nEvent Information\r\n- Organizer: RedX & Reaper \r\n- Official Website: https://qualification.redx.site/\r\n- social Media: https://qualification.redx.site/socials\r\n- RedX Platform: https://redx.site\r\n\r\n\r\nSharpen your skills, trust your knowledge, and prepare for the hunt.\r\n\r\nThe Reaper is waiting.",
-      "updated_at": "2026-11-16T06:38:10.647319+00:00"
+      "updated_at": "2026-11-16T22:11:37.567008+00:00"
     },
     {
       "id": "3485",
@@ -232,10 +232,10 @@
       "format": "Jeopardy",
       "online": true,
       "weight": 0.0,
-      "participants": 33,
+      "participants": 35,
       "location": "",
       "description": "L3m0n CTF is the annual flagship capture-the-flag competition of Amrita Vishwa Vidyapeetham, Coimbatore, hosted by TIFAC-CORE in Cyber Security. This is a team-based event: teams of 1 to 4 players. The online prelims is Jeopardy-style and run for 12 hours (10:00 to 22:00 IST, 04:30 to 16:30 UTC, on 28 November 2026). The top teams are invited to on-campus finals in Coimbatore. Challenges span web, pwn, reverse engineering, cryptography, forensics, OSINT and miscellaneous, with extra tracks in AI and LLM security, Web3 and hardware, IoT and RF. This edition is a broadcast themed on the cartoons we grew up with. Open to all, with a beginner category that teaches the basics. Registration opens soon on l3m0nctf.xyz.",
-      "updated_at": "2026-11-16T06:38:10.647392+00:00"
+      "updated_at": "2026-11-16T22:11:37.567027+00:00"
     },
     {
       "id": "3510",
@@ -251,10 +251,28 @@
       "format": "Jeopardy",
       "online": true,
       "weight": 0.0,
-      "participants": 6,
+      "participants": 10,
       "location": "",
       "description": "Black Hat India 2026 Official CTF is a 24-hour online Jeopardy-style CTF with 200 original challenges. The top 3 teams each win 3 Briefings passes (9 in total, each worth ₹85,000) to attend Black Hat India 2027 in Hyderabad. Dates for Black Hat India 2027 are yet to be announced.\r\n\r\nCategories: Web3, Smart Contract Exploitation, LLM Security, AI Security, IAM, SSO, DFIR, Cloud Native Security, Mobile Security, FinTech Security, Linux Security, Active Directory, DevSecOps, Binary Exploitation, Reverse Engineering, Web Security, Cryptography, OSINT, Steganography, Miscellaneous, and a Beginner Jeopardy Track.\r\n\r\nTeam size: up to 3. Scheduled start: 28 Nov, 7:30 PM IST.\r\n\r\nPlatform sponsor and CTF host: CTF7 (https://ctf7.com) - the platform running this CTF.\r\n\r\nWebsite: https://ctf.blackhat-india.com/",
-      "updated_at": "2026-11-16T06:38:10.647475+00:00"
+      "updated_at": "2026-11-16T22:11:37.567058+00:00"
+    },
+    {
+      "id": "3511",
+      "title": "THE FINAL EXPLOIT CTF 2026—QUALIFIERS",
+      "url": "https://0xv01d-ctf.xyz/",
+      "ctftime_url": "https://ctftime.org/event/3511/",
+      "start": "2026-12-29T12:00:00+00:00",
+      "finish": "2026-12-31T12:00:00+00:00",
+      "categories": [
+        "osint"
+      ],
+      "format": "Jeopardy",
+      "online": true,
+      "weight": 0.0,
+      "participants": 8,
+      "location": "",
+      "description": "THE FINAL EXPLOIT CTF 2026 — QUALIFIERS\r\n\r\nONE LAST FLAG. ONE FINAL EXPLOIT.\r\n\r\nThe year is coming to an end, but there's one last challenge waiting.\r\n\r\nOrganized by 0xV01D, THE FINAL EXPLOIT CTF 2026 is a 48-hour international online Jeopardy-style competition, open to CTF teams worldwide.\r\n\r\nCompete against teams from around the world, solve challenging cybersecurity problems, demonstrate your real-world skills, and earn your place in THE FINAL EXPLOIT CTF 2026 — GRAND FINAL.\r\n\r\n━━━━━━━━━━━━━━━━━━━━\r\n\r\nEVENT DETAILS\r\n\r\nDates: December 29–31, 2026\r\nStart: December 29 at 12:00 UTC\r\nEnd: December 31 at 12:00 UTC\r\nDuration: 48 hours\r\nFormat: Online | Jeopardy-style\r\nParticipation: Team-based | Worldwide\r\nOrganizer: 0xV01D\r\nPrizes: To be announced\r\n\r\n━━━━━━━━━━━━━━━━━━━━\r\n\r\nCHALLENGE CATEGORIES\r\n\r\n• Web Exploitation\r\n• Binary Exploitation (Pwn)\r\n• Reverse Engineering\r\n• Cryptography\r\n• OSINT\r\n• Digital Forensics & Incident Response (DFIR)\r\n• Malware Analysis\r\n• Mobile Security\r\n• AI Security\r\n• Blockchain Security\r\n• Miscellaneous\r\n\r\nBEYOND TRADITIONAL CTF CHALLENGES\r\n\r\nThis competition goes beyond conventional CTF puzzles.\r\n\r\nParticipants will face realistic, industry-inspired cybersecurity scenarios designed to test practical skills used by security professionals in real-world environments.\r\n\r\nExpect hands-on challenges involving:\r\n\r\n• Security Operations Center (SOC) investigations and threat detection\r\n• Real-world penetration testing methodologies and exploitation scenarios",
+      "updated_at": "2026-11-16T22:11:37.567172+00:00"
     }
   ],
   "notified_ids": [
@@ -271,6 +289,7 @@
     "3490",
     "3499",
     "3502",
-    "3510"
+    "3510",
+    "3511"
   ]
 }
